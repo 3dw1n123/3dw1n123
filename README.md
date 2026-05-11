@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Edwin 👋
 
-<!--
-**3dw1n123/3dw1n123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems Engineer. I mostly work with **Python** and **React**, focusing on building tools that help me find hidden patterns in data and automate workflows.
 
-Here are some ideas to get you started:
+* **Currently working on:** A Premier League statistics pipeline and improving my data engineering skills.
+* **Currently learning:** Advanced data analytics and refining my English for technical environments.
+* **Looking to collaborate on:** Interesting Python projects or data-driven tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### few things about me:
+* Huge **Manchester United** fan. 🔴
+* Big fan of **Dune** (the books and the movies).
+* Proud owner of two cats
+* **Hobbies:** Video games, photography, movies, board games, and hitting the gym.
